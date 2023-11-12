@@ -1,4 +1,4 @@
-![Stock](https://i.pinimg.com/originals/42/7f/73/427f73c16ba1578907efa9bd7dd89620.gif)
+![Stock](https://media.tenor.com/F22o7y51j-0AAAAC/we-like-your-resume-job.gif)
 
 # _**Resume Parser using Spacy NLP Library with Stream lit Integrated**_
 Resume Analyses has been they’re for decades now, As, having well balanced and aesthetic resume can make or break your career. So, a personalized resume analyser helps us to evaluate and maintain a proper resume which might help us get a job in top MNC’s. In this project we explain you about the tools which helped us to analyse our resume and provide better feedback which can help us to increase the skills which we are lacking and also change the resume pattern which keeps us one step ahead of others.
