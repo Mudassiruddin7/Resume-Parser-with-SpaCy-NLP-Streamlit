@@ -98,7 +98,7 @@ Now you are ready to use jupyter on this environment and start with your project
 # _**Data Description**_
 Specifically, no external dataset was used for this project. Some external links have been provided in the code to make a recommendation system which recommends courses to the people who use the application, based on their resume score.
 
-![Happy](https://media0.giphy.com/media/xT9C25UNTwfZuk85WP/giphy.gif)
+![Dataset](https://miro.medium.com/v2/resize:fit:1200/1*c8wR6BtKoF-kG5lqqcI7hA.gif)
 
  # _**Issues Faced.**_
 1. We might face an issue while installing specific libraries.
